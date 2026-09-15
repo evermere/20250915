@@ -75,7 +75,6 @@ git remote remove origin   *删除origin地址别名
 git add file #资源添加到缓冲区
 git rm file#资源从缓冲区删除同时删除文件
 git restore file #将资源冲缓冲区还原到磁盘中
-科林明伦
 git status #查看缓冲区状态
 gitcommit-m “提交说明”#将缓冲区数据提交到本地仓库，
 可以附加说明信息
