@@ -173,8 +173,7 @@ grep '^[a-zA-Z0-9]\{8,15\}@[a-zA-Z0-9]\+\.com$' test
 #include <regex.h>
 //<a href="https://www.baidu.com">点击访问百度</a> #超链接标签
     regex_treg; //声明正则类型
-    const char * regstr = "<a href="\\([^\"]\\+\\?\\">\\([^<]\\+\\?\))
-</a>"; //匹配超连接标签的表达式
+    const char * regstr = "<a href="\\([^\"]\\+\\?\\">\\([^<]\\+\\?\))</a>"; //匹配超连接标签的表达式
 	regcomp(&reg,regstr,0);
 ```
 
