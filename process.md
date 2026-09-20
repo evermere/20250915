@@ -78,3 +78,4 @@
 
 ### 进程原语
 
+![https://i.imgs.ovh/2026/09/20/8d4a6492f5b19f9b1875e9685a15bf30.png](https://i.imgs.ovh/2026/09/20/8d4a6492f5b19f9b1875e9685a15bf30.png)
