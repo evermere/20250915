@@ -363,7 +363,7 @@ int main(void)
 #1.png 源文件 2.png 目标文件 pronum 进程数量， 进程数量可以缺省，如果用户不传入进程数 pronum 缺省值= 3
 ```
   * * 多进程拷贝流程简图
-
+![](https://i.imgs.ovh/2026/09/25/7bb5c7416821f120f905cce8a538cc73.png)
     * 模块
 
       ```c
