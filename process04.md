@@ -390,42 +390,35 @@ int main(void)
 
     * 基础实现，细节部分需要自行完成
 
-![](https://i.imgs.ovh/2026/09/25/a0c20ae467c34498d694129191bf3b12.png)
+![](https://i.imgs.ovh/2026/10/10/17307c69909992162023bd857070541a.png)
 
 
 
-MOD/Copy.c
+**MOD/Copy.c**
 
-![](https://i.imgs.ovh/2026/09/25/db7e6a65f3468138ae53c17699b80ca0.png)
+![](https://i.imgs.ovh/2026/10/10/fba149bc7f1ca4e3b25ed07f1e2bcbe4.png)
 
-include/process_copy.h
+**include/process_copy.h**
 
-![](https://i.imgs.ovh/2026/09/25/752b67b4fd2eaf33991def8ea212c622.png)
+![](https://i.imgs.ovh/2026/10/10/e3e3258ec176553920f95311474a5368.png)
 
 
 
-source/process_wait.c
+**source/process_wait.c**
 
-![](https://i.imgs.ovh/2026/09/25/3fa4699374235d18651e6bafcded0316.png)
+![](https://i.imgs.ovh/2026/10/10/ff00a190b8b4bed5be36353d6fdd4bd3.png)
 
-source/process_create.c
+**source/process_create.c**
 
-![](https://i.imgs.ovh/2026/09/25/dfda7766e9b33d3ae22fbee82d285bb3.png)
+![](https://i.imgs.ovh/2026/10/10/f2db9bd8975f77662b149f42f0ff184f.png)
 
-source/block_cur.c
+**source/block_cur.c**
 
-![](https://i.imgs.ovh/2026/09/25/df77fec14a57839ebaccd17b4aabead8.png)
+![](https://i.imgs.ovh/2026/10/10/7a17b129ec48d754f55c7c7088948d87.png)
 
-source/check_pram.c
+**source/check_pram.c**
 
 ![](https://i.imgs.ovh/2026/09/25/af322f4dc1c3649830d2b6964da2b374.png)
-
-
-
-运行结果：
-
-![](https://i.imgs.ovh/2026/09/25/c780993089c3ec941c9de7dfe5fb3603.png)
-
 
 
 
